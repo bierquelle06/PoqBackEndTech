@@ -14,7 +14,7 @@ using SampleProject.Application.Configuration.Data;
 namespace SampleProject.Application.Products.FilterProduct
 {
     /// <summary>
-    /// 
+    /// Filter Product Command Handler
     /// </summary>
     internal sealed class FilterProductCommandHandler : ICommandHandler<FilterProductCommand, ProductFilterDto>
     {
