@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KOHT3kGWh0GtwyhoQ5fVNE4AaG/0uuvtLYzkDJ/0gWGo+Pp0XB8DdzbcF8/J4g9UuBP9jTclJYHa1dYAkNWEJg==",
+  "success": true,
+  "projectFilePath": "C:\\MyProjects\\PoqBackEndTech\\SampleProject.Application\\SampleProject.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktas\\.nuget\\packages\\dapper\\2.0.30\\dapper.2.0.30.nupkg.sha512",
+    "C:\\Users\\aktas\\.nuget\\packages\\fluentvalidation\\8.6.1\\fluentvalidation.8.6.1.nupkg.sha512",
+    "C:\\Users\\aktas\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Users\\aktas\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\aktas\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\aktas\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
