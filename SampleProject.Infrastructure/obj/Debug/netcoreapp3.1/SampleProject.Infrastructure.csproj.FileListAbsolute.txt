@@ -1,0 +1,15 @@
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.deps.json
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Infrastructure.pdb
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Application.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Application.pdb
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.AssemblyReference.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.AssemblyInfoInputs.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.AssemblyInfo.cs
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.csproj.CopyComplete
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Infrastructure\obj\Debug\netcoreapp3.1\SampleProject.Infrastructure.pdb

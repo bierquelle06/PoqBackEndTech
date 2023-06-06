@@ -1,0 +1,10 @@
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.deps.json
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\bin\Debug\netcoreapp3.1\SampleProject.Domain.pdb
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.AssemblyReference.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfoInputs.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.AssemblyInfo.cs
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.csproj.CoreCompileInputs.cache
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.dll
+C:\MyProjects\PoqBackEndTech\SampleProject.Domain\obj\Debug\netcoreapp3.1\SampleProject.Domain.pdb

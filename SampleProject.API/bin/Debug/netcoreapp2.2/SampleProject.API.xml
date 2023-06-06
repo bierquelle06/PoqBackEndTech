@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SampleProject.API</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:SampleProject.API.Customers.ProductsController.Filter(System.Nullable{System.Decimal},System.Nullable{System.Decimal},System.String,System.String)" -->
+        <member name="M:SampleProject.API.Customers.ProductsController.FilterProduct(SampleProject.Application.Products.FilterProduct.FilterProductRequest)">
+            <summary>
+            Filter product
+            </summary>
+        </member>
+    </members>
+</doc>

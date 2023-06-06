@@ -1,0 +1,4 @@
+{"@t":"2023-06-06T08:22:43.5641425Z","@mt":"Logger configured"}
+{"@t":"2023-06-06T09:18:15.0174530Z","@mt":"Logger configured"}
+{"@t":"2023-06-06T09:18:48.5068592Z","@mt":"Executing command {@Command}","Command":{"MinPrice":0,"MaxPrice":0,"Size":"20","Highlight":null,"Id":"206f6870-7955-48bb-8c8e-58faef6249c6","$type":"FilterProductCommand"},"Context":"Command:206f6870-7955-48bb-8c8e-58faef6249c6","CorrelationId":"ac4dea72-2f4e-47b8-b4ea-607a904bd05f"}
+{"@t":"2023-06-06T09:18:49.1213550Z","@mt":"Command processed successful, result {Result}","Result":"SampleProject.Application.Products.ProductFilterDto","Context":"Command:206f6870-7955-48bb-8c8e-58faef6249c6","CorrelationId":"ac4dea72-2f4e-47b8-b4ea-607a904bd05f"}
